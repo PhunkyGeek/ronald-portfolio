@@ -96,4 +96,3 @@ This portfolio is optimized for modern deployment platforms:
 ## License
 
 Distributed under the CC BY-NC 4.0 License.
-ercontent.com%2Fonce-ui-system%2Fmagic-portfolio%2Fmain%2Fpublic%2Fimages%2Fog%2Fhome.jpg)
