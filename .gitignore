@@ -34,3 +34,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.agents
+.env.example
+.lintstagedrc.js
+biome.json
+/.vscode
