@@ -1,91 +1,99 @@
-# Magic Portfolio
+﻿# Ronald Abel-Obi — AI-focused Full Stack Engineering Portfolio
 
-Magic Portfolio is a simple, clean, beginner-friendly portfolio template. It supports an MDX-based content system for projects and blog posts, an about / CV page and a gallery.
+A premium, production-ready portfolio for a software engineer building intelligent systems, scalable products, and modern web experiences.
 
-View the demo [here](https://demo.magic-portfolio.com).
+---
 
-![Magic Portfolio](public/images/og/home.png)
+## About
 
-## Getting started
+I’m Ronald Abel-Obi, an AI-focused Full Stack Engineer and Product Builder. I design and ship intelligent applications, from RAG systems and AI customer support to SaaS products and enterprise-grade web platforms. My experience spans AI SaaS development, CTO leadership, MERN applications, and AIoT innovation.
 
-**1. Clone the repository**
-```
-git clone https://github.com/once-ui-system/magic-portfolio.git
-```
+---
 
-**2. Install dependencies**
-```
-npm install
-```
+View the demo [here](https://ronald-portfolio.vercel.app).
 
-**3. Run dev server**
-```
-npm run dev
-```
-
-**4. Edit config**
-```
-src/resources/once-ui.config.js
-```
-
-**5. Edit content**
-```
-src/resources/content.js
-```
-
-**6. Create blog posts / projects**
-```
-Add a new .mdx file to src/app/blog/posts or src/app/work/projects
-```
-
-Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
-
-## Documentation
-
-Docs available at: [docs.once-ui.com](https://docs.once-ui.com/docs/magic-portfolio/quick-start)
+![Ronald's Portfolio](public/images/og/home.png)
 
 ## Features
 
-### Once UI
-- All tokens, components & features of [Once UI](https://once-ui.com)
+- Responsive interface with polished visual hierarchy
+- Project showcase with technical highlights and case studies
+- MDX-powered blog support for writing technical content
+- Lightweight animations and modern interaction patterns
+- Dark / light mode support for user preference
+- Performance-first implementation for fast page load
+- SEO-friendly architecture for discoverability
 
-### SEO
-- Automatic open-graph and X image generation with next/og
-- Automatic schema and metadata generation based on the content file
+---
 
-### Design
-- Responsive layout optimized for all screen sizes
-- Timeless design without heavy animations and motion
-- Endless customization options through [data attributes](https://once-ui.com/docs/theming)
+## Tech Stack
 
-### Content
-- Render sections conditionally based on the content file
-- Enable or disable pages for blog, work, gallery and about / CV
-- Generate and display social links automatically
-- Set up password protection for URLs
+- React
+- Next.js
+- TypeScript
+- Node.js
+- Tailwind CSS
+- Firebase
+- OpenAI
+- Gemini
+- MongoDB
+- Vercel
 
-### Localization
-- A localized, earlier version of Magic Portfolio is available with the next-intl library
-- To use localization, switch to the 'i18n' branch
+---
 
-## Creators
+## Projects Highlight
 
-Lorant One: [Threads](https://www.threads.net/@lorant.one) / [LinkedIn](https://www.linkedin.com/in/lorant-one/)
+- **AI Code Assistant** — intelligent developer tooling for faster engineering workflows
+- **Flashcard SaaS** — adaptive learning product with AI-powered study features
+- **RAG AI Applications** — retrieval-augmented knowledge systems for data-driven experiences
+- **AI Chatbot Systems** — conversational support solutions for customer success
+- **Full Stack Applications** — end-to-end web products featuring modern architecture
+- **AI-driven Products** — scalable systems built for impact and reliability
 
-## Get involved
+---
 
-- Join the Design Engineers Club on [Discord](https://discord.com/invite/5EyAQ4eNdS) and share your project with us!
-- Deployed your docs? Share it on the [Once UI Hub](https://once-ui.com/hub) too! We feature our favorite apps on our landing page.
+## Installation
+
+```bash
+git clone https://github.com/PhunkyGeek/rons-portfolio.git
+cd ron-portfolio
+npm install
+npm run dev
+```
+
+---
+
+## Folder Structure
+
+- `src/app/` — page and route structure
+- `src/components/` — shared UI components and layout
+- `src/resources/` — site configuration and content
+- `src/utils/` — helper utilities and data formatting
+- `public/` — static assets and image resources
+
+---
+
+## Deployment
+
+This portfolio is optimized for modern deployment platforms:
+
+- Vercel
+- Netlify
+- GitHub Pages
+
+---
+
+## Author
+
+**Ronald Abel-Obi**
+
+- GitHub: https://github.com/PhunkyGeek
+- LinkedIn: https://www.linkedin.com/in/ronald-abel-obi-a07654a5/
+- Portfolio: https://ronald-portfolio.vercel.app
+
+---
 
 ## License
 
 Distributed under the CC BY-NC 4.0 License.
-- Attribution is required.
-- Commercial usage is not allowed.
-- You can extend the license to [Dopler CC](https://dopler.app/license) by purchasing a [Once UI Pro](https://once-ui.com/pricing) license.
-
-See `LICENSE.txt` for more information.
-
-## Deploy with Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fmagic-portfolio&project-name=portfolio&repository-name=portfolio&redirect-url=https%3A%2F%2Fgithub.com%2Fonce-ui-system%2Fmagic-portfolio&demo-title=Magic%20Portfolio&demo-description=Showcase%20your%20designers%20or%20developer%20portfolio&demo-url=https%3A%2F%2Fdemo.magic-portfolio.com&demo-image=%2F%2Fraw.githubusercontent.com%2Fonce-ui-system%2Fmagic-portfolio%2Fmain%2Fpublic%2Fimages%2Fog%2Fhome.jpg)
+ercontent.com%2Fonce-ui-system%2Fmagic-portfolio%2Fmain%2Fpublic%2Fimages%2Fog%2Fhome.jpg)
