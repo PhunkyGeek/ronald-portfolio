@@ -40,3 +40,4 @@ next-env.d.ts
 .lintstagedrc.js
 biome.json
 /.vscode
+/.github
